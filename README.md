@@ -1,0 +1,2 @@
+# INFLUX
+docker-compose up
